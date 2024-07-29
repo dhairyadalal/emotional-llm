@@ -1,0 +1,56 @@
+situ,a,b,c,d,e,pred_text,true_value
+Clara receives a gift. Clara is most likely to feel?,Happy,Angry,Frightened,Bored,Hungry,  a. happy,A
+"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",Ashamed,Distressed,Angry,Sad,Frustrated,  a,D
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,Surprise,Pride,Relief,Hope,Joy,  c. relief,B
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,Regret,Hope,Relief,Sadness,Joy,  c. relief,C
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,Pride,Joy,Relief,Guilt,Hope,  b. joy,B
+Regret is most likely to occur when?,Events are unexpected.,You have caused something you didn't want to happen and cannot change it.,Circumstances have caused something you didn't want to happen. ,You have caused something you didn't want to happen and are trying to change it.,Events are getting beyond your control.,  b,B
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",Surprise,Gratitude,Pride,Hope,Relief,  b. gratitude,B
+"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",Guilty,Distressed,Sad,Scared,Angry,  a. guilty,B
+" If the current situation continues, Denise's employer will probably be able to move her job to a location much closer to her home, which she really wants. Denise is most likely to feel?",Distress,Joy,Surprise,Hope,Fear,  d,D
+"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but 
+has in fact used the money for less serious purposes. Song is most likely to feel?",Anger,Excitement,Contempt,Shame,Horror,  a. anger,C
+Somebody is most likely to feel surprised after?,Something unexpected happens,Something unfamiliar happens.,Something unusual happens. ,Something scary happens.,Something silly happens.,  a. something unexpected happens,A
+"Leya works as a trouble-shooter. She is presented with a standard looking problem but cannot 
+work out how to solve it. Leya is most likely to feel?",Confused,Frustrated,Surprised,Relieved,Distressed,  a,B
+Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,Depressed,Frustrated,Angry,Contemptuous,Distressed,  b,C
+"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",Irritated,Scared,Distressed,Sad,Hopeful,  a. irritated,B
+Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,Dislike,Rage,Jealousy,Surprise,Anxiety,  a,A
+Phil's workmate Bart asks Phil to lie for him about money Bart has been stealing from the company. Phil does not agree. Phil is most likely to feel?,Excitement,Anger,Horror,Contempt,Shame,  d,D
+"Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?
+",Angry,Sad,Frustrated,Distressed,Ashamed,  c. frustrated,B
+"If all goes well, then it's fairly likely that Derek's house will increase in value. 
+Derek is most likely to feel?",Distress,Fear,Surprise,Joy,Hope,  a,E
+Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,Depressed,Contemptuous,Frustrated,Angry,Distressed,  c. frustrated,D
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,"She didn't make an offer on a house she wanted, and now she is trying to find out if it is
+too late. ",She found a house she liked that she didn't think she would find.,"She couldn't make an offer on a house she liked because the bank didn't get her the money
+in time.",She didn't make an offer on a house she liked and now someone else has bought it. ,She made an offer on a house and is waiting to see if it is accepted.,  d,D
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",Her work-mate told a silly joke., She was working on a new task she hadn't dealt with before. ,She found some results that were different from what she thought they would be.,She realised she would not be able to complete her work. ,She had to do a task she didn't normally do at work. ,  c. she found some results that were different from what she thought they would be.,C
+Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,Scared,Angry,Sad,Guilty,Distressed,  a. scared,E
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,Hope,Pride,Gratitude,Surprise,Relief,  c. gratitude,C
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",Pride,Relief,Joy,Hope,Guilt,  a,C
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",Joy,Hope,Relief,Pride,Surprise,  a,D
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",Regret,Hope,Joy,Sadness,Relief,  e. relief,E
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",Distressed,Confused,Surprised,Relieved,Frustrated,  a,E
+Dorian's friend is ill and coughs all over him without bothering to turn away or cover his mouth. Dorian is most likely to feel?,Anxiety,Dislike,Surprise,Jealousy,Rage,  a,B
+"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",Scared,Distressed,Irritated,Sad,Hopeful,  a. scared,A
+Quan and his wife are talking about what happened to them that day. Something happened that caused Quan to feel surprised. What is most likely to have happened?,"His wife talked a lot, which did not usually happen.",His wife talked about things that were different to what they usually discussed.,His wife told him that she might have some bad news.,His wife told Quan some news that was not what he thought it would be.,His wife told a funny story.,  a,E
+"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",Sad,Irritated,Distressed,Scared,Hopeful,  a,D
+It is clear that somebody will get what they want. They are most likely to feel?,Pride,Relief,Joy,Hope,Guilt,  b. relief,C
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",Distress,Hope,Surprise,Joy,Fear,  b,B
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",Joy,Hope,Regret,Relief,Sadness,  d. relief,D
+The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,Ashamed,Sad,Angry,Distressed,Frustrated,  d,B
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,Angry,Scared,Sad,Distressed,Guilty,  d,D
+A person feels they have control over a situation. The situation turns out badly for no particular reason. The person involved is most likely to feel?,Confused,Relieved,Surprised,Frustrated,Distressed,  a. confused,D
+"Someone believes another person has deliberately caused something good to stop happening to them. However, they feel they can do something about it. They are most likely to feel?",Angry,Contemptuous,Distress,Depressed,Frustrated,  c,A
+" The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",Dislike,Rage,Jealousy,Surprise,Anxiety,  a. dislike,A
+"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",Contempt,Anger,Horror,Excitement,Shame,  a,A
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?",Surprise,Hope,Pride,Relief,Gratitude,  e,E
+Matthew has been at his current job for six months. Something happened that caused him to feel regret. What is most likely to have happened?,"He did not apply for a position he wanted, and has found out that someone else less qualified got the job.","He did not apply for a position he wanted, and has started looking for a similar position.",He found out that opportunities for promotion have dried up.,He found out that he didn't get a position he thought he would get. ,He didn't hear about a position he could have applied for and now it is too late. ,"  a. he did not apply for a position he wanted, and has found out that someone else less qualified got the job. ",A
+Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,Hope,Pride,Relief,Joy,Surprise,  b. pride,B
