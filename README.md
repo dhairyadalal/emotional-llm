@@ -22,8 +22,8 @@ e. {e}
 
 ---
 
-### Trait Based EQ ([Results](./train_el/tei_answers/csv_res/all_tei_preds.csv)
-The trait based experiments are based on [TEIQUE](https://psychometriclab.com/obtaining-the-teique/)).
+### Trait Based EQ ([Results](./train_el/tei_answers/csv_res/all_tei_preds.csv))
+The trait based experiments are based on [TEIQUE](https://psychometriclab.com/obtaining-the-teique/).
 
 The instructions had to be significantly changed for the trait based predictions. Gemma-27B will not generate results for the multiple variation of the prompt for this task.
 #### TODO: Look into gemma-27b for this task.
