@@ -1,0 +1,53 @@
+RECODE
+  tei_16 tei_2 tei_18 tei_4 tei_5 tei_7 tei_22 tei_8 tei_10 tei_25 tei_26 tei_12 tei_13 tei_28 tei_14  (7=1)  (6=2)  (5=3)
+   (3=5)  (2=6)  (1=7)  .
+EXECUTE .
+
+COMPUTE tot_tei = (tei_1 +tei_2+tei_3+tei_4+tei_5+tei_6+tei_7+tei_8+tei_9+tei_10+tei_11+tei_12+tei_13+tei_14+tei_15+tei_16+tei_17+tei_18+tei_19+tei_20+tei_21+tei_22+tei_23+tei_24+tei_25+tei_26+tei_27+tei_28+tei_29+tei_30)/30 .
+EXECUTE .
+
+*Factor scores .
+COMPUTE well_being = (tei_5+ tei_20+ tei_9 +tei_24+ tei_12 +tei_27)/6.
+EXECUTE .
+COMPUTE self_control = (tei_4+ tei_19+ tei_7 +tei_22 +tei_15+ tei_30)/6 .
+EXECUTE .
+COMPUTE emotionality = (tei_1+ tei_16+ tei_2 +tei_17+ tei_8+ tei_23+ tei_13+ tei_28)/8  .
+EXECUTE .
+COMPUTE sociability = (tei_6 +tei_21+ tei_10+ tei_25 +tei_11+ tei_26)/6 .
+EXECUTE .
+
+var lab tot_tei 'global trait emotional intelligence'  .
+
+TITLE 'well_being' .
+RELIABILITY
+  /VARIABLES= tei_5 tei_20 tei_9 tei_24 tei_12 tei_27
+  /FORMAT=NOLABELS
+  /SCALE(ALPHA)=ALL/MODEL=ALPHA
+  /SUMMARY=TOTAL .
+
+TITLE 'self-control' .
+RELIABILITY
+  /VARIABLES= tei_4 tei_19 tei_7 tei_22 tei_15 tei_30
+  /FORMAT=NOLABELS
+  /SCALE(ALPHA)=ALL/MODEL=ALPHA
+  /SUMMARY=TOTAL .
+
+TITLE 'emotionality' .
+RELIABILITY
+  /VARIABLES= tei_1 tei_16 tei_2 tei_17 tei_8 tei_23 tei_13 tei_28
+  /FORMAT=NOLABELS
+  /SCALE(ALPHA)=ALL/MODEL=ALPHA
+  /SUMMARY=TOTAL .
+
+TITLE 'sociability' .
+RELIABILITY
+  /VARIABLES= tei_6 tei_21 tei_10 tei_25 tei_11 tei_26
+  /FORMAT=NOLABELS
+  /SCALE(ALPHA)=ALL/MODEL=ALPHA
+  /SUMMARY=TOTAL .
+
+TITLE 'global trait EI' .
+RELIABILITY
+  /VARIABLES= tei_1  tei_2 tei_3 tei_4 tei_5 tei_6 tei_7 tei_8 tei_9 tei_10 tei_11 tei_12 tei_13 tei_14 tei_15 tei_16 tei_17 tei_18 tei_19 tei_20 tei_21 tei_22 tei_23 tei_24 tei_25 tei_26 tei_27 tei_28 tei_29 tei_30 .
+  /FORMAT=NOLABELS
+  /SCALE(ALPHA)=ALL/MODEL=ALPHA
