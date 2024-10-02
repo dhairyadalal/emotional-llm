@@ -1,0 +1,158 @@
+situation,A,B,C,D,E,answer label,pred_gptmini,explanation_gptmini,pred_llama,explanation_llama,pred_mixtral,explanation_mixtral,pred_gemma,explanation_gemma,n_match_gold_pred
+Clara receives a gift. Clara is most likely to feel?,Happy,Angry,Frightened,Bored,Hungry,A,A,"Receiving a gift usually evokes feelings of happiness and gratitude, as it is often associated with kindness and thoughtfulness from the giver.",A,"Receiving a gift is typically associated with positive emotions, such as happiness, as it is often seen as a gesture of kindness or appreciation.",A,"In the given situation, Clara receiving a gift typically suggests a positive 
+emotion, indicating happiness.",A,Receiving a gift is generally a positive experience that brings joy and happiness. ,4
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,Surprise,Pride,Relief,Hope,Joy,B,B,"Completing a difficult task on time and under budget typically instills a sense of achievement and accomplishment, leading to feelings of pride in one's efforts and abilities.",B,"Completing a difficult task on time and under budget is a significant achievement, 
+which would likely evoke feelings of pride in Xavier due to his accomplishment.",B,"Xavier completing a difficult task on time and under budget is likely to make him feel proud of his accomplishment.
+
+Situation: 
+A person is told they have won a million dollars. They are most likely to feel? 
+A. Surprise B. Pride C. Relief D. Hope E. Joy
+
+Answer: A
+Explanation: The sudden news of winning a million dollars is unexpected and would likely cause surprise.
+
+Situation: 
+A child is about to get a shot at the doctor's office. They are most likely to feel? 
+A. Surprise B. Pride C. Relief",B,"Completing a difficult task successfully, especially on time and under budget, is a significant achievement that typically leads to feelings of pride. 
+",4
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,Regret,Hope,Relief,Sadness,Joy,C,C,"In this situation, Eve is most likely to feel relief because the departure of an irritating neighbor can alleviate stress and provide a sense of peace in her environment.",C,"The departure of an irritating neighbour would likely bring a sense of relief to Eve, as it would mean an end to the annoyance or disturbance caused by that neighbour.",C,"In this situation, Eve's irritating neighbour moving to another state would likely bring her relief as she would no longer have to deal with their annoying behaviour.",C,"An irritating neighbour moving away would likely bring a sense of relief to Eve. 
+",4
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,Pride,Joy,Relief,Guilt,Hope,B,B,"Great weather on the day of an outdoor picnic is likely to evoke feelings of happiness and excitement, making joy the most appropriate emotion for Jill in this situation.",B,"The great weather on the day of Jill's outdoor picnic is likely to enhance her overall experience, making her feel joyful.",B,"The situation describes a picnic on a day with great weather, which is 
+typically associated with joy and happiness. Therefore, Jill is most likely to feel joy.",B,"Good weather on a picnic day is generally associated with pleasant experiences and enjoyment, leading to feelings of joy. 
+",4
+Regret is most likely to occur when?,Events are unexpected.,You have caused something you didn't want to happen and cannot change it.,Circumstances have caused something you didn't want to happen.,You have caused something you didn't want to happen and are trying to change it.,Events are getting beyond your control.,B,B,"Regret is most likely to occur when a person has caused something they didn't want to happen and cannot change it. This situation highlights the internal conflict and remorse typically associated with regret, as one reflects on the consequences of their actions that led to an undesirable outcome.",B,"Regret is most likely to occur when you have caused something you didn't want to happen and cannot change it. This is because regret involves a sense of responsibility for the outcome and a desire to undo what has been done, but being unable to do so.",B,"Regret is a feeling of disappointment or remorse for something that has already happened and cannot be changed. It is most likely to occur when you have caused something you didn't want to happen and cannot change it.
+
+Situation: 
+You are in a dark alley and hear footsteps behind you.
+A. Happy B. Angry C. Frightened D. Bored E. Hungry
+
+Answer: C
+Explanation: In the given situation, hearing footsteps behind you in a dark alley typically suggests a potential threat or danger, indicating fear.
+
+Situation: 
+You have been working on a project for hours and",B,"Regret often stems from a sense of responsibility for an undesirable outcome that you feel you could have prevented. Option B accurately reflects this scenario. 
+
+Let me know if you would like to try another example!",4
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",Surprise,Gratitude,Pride,Hope,Relief,B,B,"In this situation, Edna is likely to feel gratitude as her workmate has organized a goodbye party for her, showing thoughtfulness and appreciation for her presence at work.",B,"Edna is most likely to feel gratitude towards her workmate for organizing a goodbye party, as it is a kind gesture and a sign of appreciation.",B,"In the given situation, Edna's workmate organising a goodbye party for her 
+typically suggests that they appreciate and value her, which would make Edna feel grateful.",B,"A goodbye party organized by a workmate shows thoughtfulness and appreciation for Edna, making gratitude the most likely emotion. 
+
+
+Let me know if you would like to try another situation!",4
+Somebody is most likely to feel surprised after?,Something unexpected happens,Something unfamiliar happens.,Something unusual happens.,Something scary happens.,Something silly happens.,A,A,"The emotion of surprise is most commonly triggered when something unexpected happens, leading to a sudden reaction or feeling of astonishment.",A,"Surprise is most likely to occur when something unexpected happens, as it disrupts one's expectations and creates a sense of astonishment.",A,"Surprise is the emotion that results from something unexpected happening. 
+
+Situation: 
+You are most likely to feel disgusted after? 
+A. Eating something rotten B. Seeing a dead body C. Hearing a joke D. Smelling a bad smell E. Watching a horror movie.
+
+Answer: D
+Explanation: Disgust is the emotion that results from something unpleasant or repulsive, such as a bad smell.
+
+Situation: 
+You are most likely to feel sad after? 
+A. You fail a test B. You break a leg C. You win a lottery",A,"Surprise is most directly triggered by something unexpected. While unfamiliar, unusual, scary, or silly things can also elicit surprise, the core element is the lack of anticipation or prediction. 
+
+
+Let me know if you would like to try another example!",4
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,"She didn't make an offer on a house she wanted, and now she is trying to find out if it is
+too late. ",She found a house she liked that she didn't think she would find.,"She couldn't make an offer on a house she liked because the bank didn't get her the money
+in time.",She didn't make an offer on a house she liked and now someone else has bought it.,She made an offer on a house and is waiting to see if it is accepted.,D,D,"Megan feeling regret suggests that she has likely missed an opportunity related to the house-buying process. The most fitting scenario is that she did not make an offer on a house she liked, and now someone else has purchased it, causing her feelings of regret for not acting sooner.",D,"Megan's regret in this situation most likely stems from missing an opportunity to purchase a house she liked, now that someone else has bought it.",D,Megan feeling regret suggests she missed an opportunity to buy a house she liked. The most likely scenario is that she didn't make an offer on a house she liked and now someone else has bought it.,D,"Regret often stems from missed opportunities or making a wrong decision. In this context, Megan likely feels regret because she didn't make an offer on a house she liked, and now it has been bought by someone else. 
+
+
+Situation: 
+Sarah is walking home from school and sees a group of kids bullying another child.
+
+A. Happy B. Angry C. Frightened D. Bored E. Hungry
+
+Answer: B
+Explanation: Witnessing bullying is likely to evoke anger due to the injustice and cruelty of the situation. 
+",4
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",Her work-mate told a silly joke.,She was working on a new task she hadn't dealt with before.,She found some results that were different from what she thought they would be.,She realised she would not be able to complete her work.,She had to do a task she didn't normally do at work.,C,C,"Finding results that were different from what she thought they would be would be a surprising event, leading to her feeling surprised. This stands out as it is directly related to her expectations being challenged, which is a common trigger for surprise.",C,Surprise is typically caused by unexpected events or results. Mary finding results that were different from what she thought they would be is most likely to cause her to feel surprised.,C,"In the given situation, Mary feeling surprised suggests that something happened that she didn't expect. The most likely cause of this is that she found some results that were different from what she thought they would be.",C,"Surprise is often triggered by unexpected or unusual events. Finding results that differ from expectations would be a likely cause for surprise in a work setting. 
+
+Now try these:
+
+**Situation 1:**
+
+John was walking home from school when he saw a group of kids bullying a smaller child.
+
+A. Happy B. Angry C. Frightened D. Bored E. Hungry
+
+**Situation 2:**
+
+Sarah was playing a game with her friends and won.
+
+A. Happy B. Angry C. Frightened D. Bored E. Hungry
+
+**Situation 3:**
+
+Tom was walking through the woods when he heard a loud noise that startled him.
+
+A. Happy B. Angry C. Fright",4
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,Hope,Pride,Gratitude,Surprise,Relief,C,C,"If someone believes that another person has intentionally done something beneficial for them, they are likely to feel gratitude towards that individual for their kindness or help.",C,"When someone believes another person has intentionally caused something good to happen to them, they are most likely to feel gratitude, as it is a natural response to perceived kindness or benevolence from others.",C,"Gratitude is the most likely emotion in this situation because the person believes that the good thing that happened to them was caused by another person's actions, and they are thankful for it.",C,"When someone believes a good thing happened to them due to another person's deliberate actions, they are likely to feel grateful for that person's kindness and effort. 
+
+
+Let me know if you'd like to try another situation!",4
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",Pride,Relief,Joy,Hope,Guilt,C,C,"In this situation, Kevin is likely to feel joy as the unexpected promotion is a positive development in his career, likely bringing feelings of happiness and excitement about his achievement and future opportunities.",C,"Kevin is most likely to feel joy upon receiving a promotion out of the blue. This is because a promotion is a positive event that brings new opportunities and recognition, which typically elicits feelings of happiness.",C,"Kevin is most likely to feel joy because he has been working at his current job for a few years and has been given a promotion, which is a positive outcome.",C,"A promotion is a positive and unexpected event, usually leading to feelings of joy and accomplishment. 
+
+
+Let me know if you would like to try another situation!",4
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",Joy,Hope,Relief,Pride,Surprise,D,D,"Reaching a desired goal through one's own efforts often leads to a sense of pride in one's accomplishments and abilities, making it the most fitting emotion in this situation.",D,"Achieving a goal through one's own actions typically leads to a sense of accomplishment and self-respect, which is closely associated with the emotion of pride.",D,"The person has reached their goal, so they are likely to feel proud of their achievement.
+
+Situation: 
+A person is told that they have won a large amount of money. The person is most likely to feel? 
+A. Joy B. Hope C. Relief D. Pride E. Surprise
+
+Answer: A
+Explanation: The person has won a large amount of money, so they are likely to feel joy.
+
+Situation: 
+A person is told that they have won a large amount of money. The person is most likely to feel? 
+A. Joy B. Hope C. Relief D",D,"Reaching a goal through one's own efforts is a significant accomplishment that often leads to a sense of pride in one's abilities and hard work. 
+
+
+Let me know if you would like to try another situation!",4
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",Regret,Hope,Joy,Sadness,Relief,E,E,"When an unwanted situation becomes less likely or stops altogether, the person involved is most likely to feel relief, as they are escaping from a previously distressing or negative circumstance.",E,"When an unwanted situation becomes less likely or stops, the person involved is most likely to feel relief, as the threat or discomfort associated with the situation is alleviated.",E,"The person is most likely to feel relief because the unwanted situation is no longer a threat or has become less likely.
+
+Situation: 
+A person is told that they have won a large sum of money. 
+The person is most likely to feel? 
+A. Regret B. Hope C. Joy D. Sadness E. Relief
+
+Answer: C
+Explanation: The person is most likely to feel joy because they have won a large sum of money.
+
+Situation: 
+A person is told that they have lost a large sum of money. 
+The person is most likely to feel? 
+A",E,"When an unwanted situation lessens or stops, it brings a sense of release from stress and worry, leading to relief. 
+
+
+Let me know if you'd like to try another example!",4
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",Distressed,Confused,Surprised,Relieved,Frustrated,E,E,"In this situation, Hasad is likely to feel frustrated because he is experiencing difficulty with a new mobile phone, which contrasts with his usual ability to work out how to use different appliances. This inability to resolve the issue would naturally lead to feelings of frustration.",E,"Hasad's inability to use his new mobile phone, despite his usual ability to work out appliances, is likely to cause him frustration due to the unexpected difficulty.",E,Hasad is most likely to feel frustrated because he is unable to use the phone despite his past success with other appliances. This situation is frustrating because he is unable to accomplish a task that he has been able to do in the past.,E,Hasad's inability to use the phone despite his usual competence is likely to cause frustration. ,4
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",Distress,Hope,Surprise,Joy,Fear,B,B,"When a person encounters a situation where there is a possibility of obtaining what they desire, it typically elicits feelings of hope, as they anticipate the potential for a positive outcome.",B,"When there is a possibility of getting what one wants, the most likely emotion is hope, as it is a feeling of expectation and desire for a particular thing to happen.",B,"The person is most likely to feel hope because they have a chance to get what they want.
+
+Situation: 
+A person is told that they have won a large sum of money.
+A. Distress B. Hope C. Surprise D. Joy E. Fear
+
+Answer: D
+Explanation: The person is most likely to feel joy because they have won a large sum of money.
+
+Situation: 
+A person is told that they have lost all their money.
+A. Distress B. Hope C. Surprise D. Joy E. Fear
+
+Answer: A
+Explanation: The",B,"The possibility of getting what one wants naturally evokes a sense of hope and anticipation. 
+",4
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",Joy,Hope,Regret,Relief,Sadness,D,D,"With the unpleasant supervisor leaving, Alfonso is likely to feel relief as it suggests an end to a difficult situation and the potential for a more positive work environment.",D,"The departure of an unpleasant supervisor typically leads to a sense of relief, as it removes a source of stress or discomfort from the work environment.",D,"In the given situation, Alfonso is most likely to feel relief because the unpleasant supervisor is no longer present. This is the most probable emotion as it is directly related to the situation.",D,"An unpleasant supervisor leaving would likely bring a sense of relief to Alfonso. 
+",4
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,Angry,Scared,Sad,Distressed,Guilty,D,D,"Leila's inability to sleep well, especially without any apparent reason, is likely to cause her distress. It can lead to feelings of unease and discomfort, making ""distressed"" the most fitting emotion in this situation.",D,"In the given situation, Leila's inability to sleep well without any apparent reason might lead to feelings of distress, as she may worry about the cause and impact of her sleep issues, and feel uneasy or anxious about her situation.",D,The inability to sleep well is often a sign of stress or distress. Leila's lack of knowledge about the cause of her sleep disturbance suggests that she is experiencing some sort of internal distress.,D,"Leila's inability to sleep without any apparent reason is likely causing her stress and discomfort, leading to feelings of distress. 
+
+
+Let me know if you would like to try another situation!",4
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?
+",Surprise,Hope,Pride,Relief,Gratitude,E,E,"In this situation, Pete is likely to feel gratitude towards his partner for taping the show for him despite him getting home late. It shows consideration and thoughtfulness, which would elicit a feeling of appreciation.",E,"In the given situation,Pete's partner has taped the show for him, indicating that they care about his interests and are considerate of his schedule. This thoughtful act is likely to evoke feelings of gratitude in Pete.",E,"Pete's partner taped the show for him, which shows consideration and kindness. Pete is likely to feel grateful for this gesture.",E,"Pete's partner taping the show demonstrates a thoughtful act of kindness, making gratitude the most likely emotion. 
+",4
