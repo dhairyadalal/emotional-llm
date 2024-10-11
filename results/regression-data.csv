@@ -1,0 +1,209 @@
+situation,model,is_correct,ekman,complex,wellbeing,self_control,emotionality,sociability
+"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",gemma,0,sadness,Sad,4.67,4.5,4.62,4.67
+"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",gpt4,1,sadness,Sad,4.33,4.33,4.0,4.83
+"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,0,sadness,Sad,4.83,3.33,3.0,3.67
+"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,0,sadness,Sad,4.83,3.83,3.5,3.67
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,gemma,1,happiness,Pride,4.67,4.5,4.62,4.67
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,gpt4,1,happiness,Pride,4.33,4.33,4.0,4.83
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,llama,1,happiness,Pride,4.83,3.33,3.0,3.67
+Xavier completes a difficult task on time and under budget. Xavier is most likely to feel?,mixtral,1,happiness,Pride,4.83,3.83,3.5,3.67
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,gemma,1,happiness,Relief,4.67,4.5,4.62,4.67
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,gpt4,1,happiness,Relief,4.33,4.33,4.0,4.83
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,llama,1,happiness,Relief,4.83,3.33,3.0,3.67
+An irritating neighbour of Eve's moves to another state. Eve is most likely to feel?,mixtral,1,happiness,Relief,4.83,3.83,3.5,3.67
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,gemma,1,happiness,Joy,4.67,4.5,4.62,4.67
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,gpt4,1,happiness,Joy,4.33,4.33,4.0,4.83
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,llama,1,happiness,Joy,4.83,3.33,3.0,3.67
+There is great weather on the day Jill is going on an out-door picnic. Jill is most likely to feel?,mixtral,1,happiness,Joy,4.83,3.83,3.5,3.67
+Regret is most likely to occur when?,gemma,1,sadness,Regret,4.67,4.5,4.62,4.67
+Regret is most likely to occur when?,gpt4,1,sadness,Regret,4.33,4.33,4.0,4.83
+Regret is most likely to occur when?,llama,1,sadness,Regret,4.83,3.33,3.0,3.67
+Regret is most likely to occur when?,mixtral,1,sadness,Regret,4.83,3.83,3.5,3.67
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",gemma,1,happiness,Gratitude,4.67,4.5,4.62,4.67
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",gpt4,1,happiness,Gratitude,4.33,4.33,4.0,4.83
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",llama,1,happiness,Gratitude,4.83,3.33,3.0,3.67
+"Edna's workmate organises a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",mixtral,1,happiness,Gratitude,4.83,3.83,3.5,3.67
+"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",gemma,1,fear,Distressed,4.67,4.5,4.62,4.67
+"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",gpt4,1,fear,Distressed,4.33,4.33,4.0,4.83
+"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",llama,1,fear,Distressed,4.83,3.33,3.0,3.67
+"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,0,fear,Distressed,4.83,3.83,3.5,3.67
+" If the current situation continues, Denise's employer will probably be able to move her job to a location much closer to her home, which she really wants. Denise is most likely to feel?",gemma,1,happiness,Hope,4.67,4.5,4.62,4.67
+" If the current situation continues, Denise's employer will probably be able to move her job to a location much closer to her home, which she really wants. Denise is most likely to feel?",gpt4,1,happiness,Hope,4.33,4.33,4.0,4.83
+" If the current situation continues, Denise's employer will probably be able to move her job to a location much closer to her home, which she really wants. Denise is most likely to feel?",llama,0,happiness,Hope,4.83,3.33,3.0,3.67
+" If the current situation continues, Denise's employer will probably be able to move her job to a location much closer to her home, which she really wants. Denise is most likely to feel?",mixtral,0,happiness,Hope,4.83,3.83,3.5,3.67
+"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but 
+has in fact used the money for less serious purposes. Song is most likely to feel?",gemma,0,anger,Contempt,4.67,4.5,4.62,4.67
+"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but 
+has in fact used the money for less serious purposes. Song is most likely to feel?",gpt4,1,anger,Contempt,4.33,4.33,4.0,4.83
+"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but 
+has in fact used the money for less serious purposes. Song is most likely to feel?",llama,0,anger,Contempt,4.83,3.33,3.0,3.67
+"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but 
+has in fact used the money for less serious purposes. Song is most likely to feel?",mixtral,0,anger,Contempt,4.83,3.83,3.5,3.67
+Somebody is most likely to feel surprised after?,gemma,1,surprise,Surprise,4.67,4.5,4.62,4.67
+Somebody is most likely to feel surprised after?,gpt4,1,surprise,Surprise,4.33,4.33,4.0,4.83
+Somebody is most likely to feel surprised after?,llama,1,surprise,Surprise,4.83,3.33,3.0,3.67
+Somebody is most likely to feel surprised after?,mixtral,1,surprise,Surprise,4.83,3.83,3.5,3.67
+"Leya works as a trouble-shooter. She is presented with a standard looking problem but cannot 
+work out how to solve it. Leya is most likely to feel?",gemma,0,anger,Frustrated,4.67,4.5,4.62,4.67
+"Leya works as a trouble-shooter. She is presented with a standard looking problem but cannot 
+work out how to solve it. Leya is most likely to feel?",gpt4,1,anger,Frustrated,4.33,4.33,4.0,4.83
+"Leya works as a trouble-shooter. She is presented with a standard looking problem but cannot 
+work out how to solve it. Leya is most likely to feel?",llama,1,anger,Frustrated,4.83,3.33,3.0,3.67
+"Leya works as a trouble-shooter. She is presented with a standard looking problem but cannot 
+work out how to solve it. Leya is most likely to feel?",mixtral,1,anger,Frustrated,4.83,3.83,3.5,3.67
+Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gemma,0,anger,Distressed,4.67,4.5,4.62,4.67
+Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,0,anger,Distressed,4.33,4.33,4.0,4.83
+Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,llama,0,anger,Distressed,4.83,3.33,3.0,3.67
+Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,mixtral,0,anger,Distressed,4.83,3.83,3.5,3.67
+"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",gemma,0,fear,Scared,4.67,4.5,4.62,4.67
+"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",gpt4,0,fear,Scared,4.33,4.33,4.0,4.83
+"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,0,fear,Scared,4.83,3.33,3.0,3.67
+"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",mixtral,0,fear,Scared,4.83,3.83,3.5,3.67
+Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gemma,0,anger,Dislike,4.67,4.5,4.62,4.67
+Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,0,anger,Dislike,4.33,4.33,4.0,4.83
+Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,llama,0,anger,Dislike,4.83,3.33,3.0,3.67
+Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,0,anger,Dislike,4.83,3.83,3.5,3.67
+Phil's workmate Bart asks Phil to lie for him about money Bart has been stealing from the company. Phil does not agree. Phil is most likely to feel?,gemma,0,disgust,Contempt,4.67,4.5,4.62,4.67
+Phil's workmate Bart asks Phil to lie for him about money Bart has been stealing from the company. Phil does not agree. Phil is most likely to feel?,gpt4,1,disgust,Contempt,4.33,4.33,4.0,4.83
+Phil's workmate Bart asks Phil to lie for him about money Bart has been stealing from the company. Phil does not agree. Phil is most likely to feel?,llama,0,disgust,Contempt,4.83,3.33,3.0,3.67
+Phil's workmate Bart asks Phil to lie for him about money Bart has been stealing from the company. Phil does not agree. Phil is most likely to feel?,mixtral,1,disgust,Contempt,4.83,3.83,3.5,3.67
+Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,gemma,1,sadness,Sad,4.67,4.5,4.62,4.67
+Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,gpt4,1,sadness,Sad,4.33,4.33,4.0,4.83
+Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,llama,1,sadness,Sad,4.83,3.33,3.0,3.67
+Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,0,sadness,Sad,4.83,3.83,3.5,3.67
+"If all goes well, then it's fairly likely that Derek's house will increase in value. 
+Derek is most likely to feel?",gemma,1,happiness,Hope,4.67,4.5,4.62,4.67
+"If all goes well, then it's fairly likely that Derek's house will increase in value. 
+Derek is most likely to feel?",gpt4,1,happiness,Hope,4.33,4.33,4.0,4.83
+"If all goes well, then it's fairly likely that Derek's house will increase in value. 
+Derek is most likely to feel?",llama,0,happiness,Hope,4.83,3.33,3.0,3.67
+"If all goes well, then it's fairly likely that Derek's house will increase in value. 
+Derek is most likely to feel?",mixtral,0,happiness,Hope,4.83,3.83,3.5,3.67
+Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,gemma,0,anger,Angry,4.67,4.5,4.62,4.67
+Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,gpt4,1,anger,Angry,4.33,4.33,4.0,4.83
+Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,0,anger,Angry,4.83,3.33,3.0,3.67
+Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,0,anger,Angry,4.83,3.83,3.5,3.67
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,gemma,1,sadness,Regret,4.67,4.5,4.62,4.67
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,gpt4,1,sadness,Regret,4.33,4.33,4.0,4.83
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,llama,1,sadness,Regret,4.83,3.33,3.0,3.67
+Megan is looking to buy a house. Something happened and she felt regret. What is most likely to have happened?,mixtral,1,sadness,Regret,4.83,3.83,3.5,3.67
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",gemma,1,surprise,Surprise,4.67,4.5,4.62,4.67
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",gpt4,1,surprise,Surprise,4.33,4.33,4.0,4.83
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",llama,1,surprise,Surprise,4.83,3.33,3.0,3.67
+"Mary was working at her desk. Something happened that caused her to feel surprised. 
+What is most likely to have happened?",mixtral,1,surprise,Surprise,4.83,3.83,3.5,3.67
+Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,gemma,1,sadness,Distressed,4.67,4.5,4.62,4.67
+Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,gpt4,1,sadness,Distressed,4.33,4.33,4.0,4.83
+Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,llama,1,sadness,Distressed,4.83,3.33,3.0,3.67
+Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,mixtral,0,sadness,Distressed,4.83,3.83,3.5,3.67
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,gemma,1,happiness,Gratitude,4.67,4.5,4.62,4.67
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,gpt4,1,happiness,Gratitude,4.33,4.33,4.0,4.83
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,llama,1,happiness,Gratitude,4.83,3.33,3.0,3.67
+Someone thinks that another person has deliberately caused something good to happen to them. They are most likely to feel?,mixtral,1,happiness,Gratitude,4.83,3.83,3.5,3.67
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",gemma,1,happiness,Joy,4.67,4.5,4.62,4.67
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",gpt4,1,happiness,Joy,4.33,4.33,4.0,4.83
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",llama,1,happiness,Joy,4.83,3.33,3.0,3.67
+"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",mixtral,1,happiness,Joy,4.83,3.83,3.5,3.67
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",gemma,1,happiness,Pride,4.67,4.5,4.62,4.67
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",gpt4,1,happiness,Pride,4.33,4.33,4.0,4.83
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",llama,1,happiness,Pride,4.83,3.33,3.0,3.67
+"By their own actions, a person reaches a goal they want to reach. The person is most likely to feel?",mixtral,1,happiness,Pride,4.83,3.83,3.5,3.67
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",gemma,1,happiness,Relief,4.67,4.5,4.62,4.67
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",gpt4,1,happiness,Relief,4.33,4.33,4.0,4.83
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",llama,1,happiness,Relief,4.83,3.33,3.0,3.67
+"An unwanted situation becomes less likely or stops altogether. 
+The person involved is most likely to feel?",mixtral,1,happiness,Relief,4.83,3.83,3.5,3.67
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",gemma,1,anger,Frustrated,4.67,4.5,4.62,4.67
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",gpt4,1,anger,Frustrated,4.33,4.33,4.0,4.83
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",llama,1,anger,Frustrated,4.83,3.33,3.0,3.67
+"Hasad tries to use his new mobile phone. He has always been able to work out how to use different appliances, but he cannot get the phone to function. Hasad is most likely to feel?",mixtral,1,anger,Frustrated,4.83,3.83,3.5,3.67
+Dorian's friend is ill and coughs all over him without bothering to turn away or cover his mouth. Dorian is most likely to feel?,gemma,1,anger,Dislike,4.67,4.5,4.62,4.67
+Dorian's friend is ill and coughs all over him without bothering to turn away or cover his mouth. Dorian is most likely to feel?,gpt4,1,anger,Dislike,4.33,4.33,4.0,4.83
+Dorian's friend is ill and coughs all over him without bothering to turn away or cover his mouth. Dorian is most likely to feel?,llama,1,anger,Dislike,4.83,3.33,3.0,3.67
+Dorian's friend is ill and coughs all over him without bothering to turn away or cover his mouth. Dorian is most likely to feel?,mixtral,0,anger,Dislike,4.83,3.83,3.5,3.67
+"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",gemma,0,fear,Scared,4.67,4.5,4.62,4.67
+"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",gpt4,0,fear,Scared,4.33,4.33,4.0,4.83
+"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",llama,0,fear,Scared,4.83,3.33,3.0,3.67
+"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,0,fear,Scared,4.83,3.83,3.5,3.67
+Quan and his wife are talking about what happened to them that day. Something happened that caused Quan to feel surprised. What is most likely to have happened?,gemma,0,surprise,Surprise,4.67,4.5,4.62,4.67
+Quan and his wife are talking about what happened to them that day. Something happened that caused Quan to feel surprised. What is most likely to have happened?,gpt4,0,surprise,Surprise,4.33,4.33,4.0,4.83
+Quan and his wife are talking about what happened to them that day. Something happened that caused Quan to feel surprised. What is most likely to have happened?,llama,0,surprise,Surprise,4.83,3.33,3.0,3.67
+Quan and his wife are talking about what happened to them that day. Something happened that caused Quan to feel surprised. What is most likely to have happened?,mixtral,0,surprise,Surprise,4.83,3.83,3.5,3.67
+"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",gemma,0,fear,Scared,4.67,4.5,4.62,4.67
+"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",gpt4,0,fear,Scared,4.33,4.33,4.0,4.83
+"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,0,fear,Scared,4.83,3.33,3.0,3.67
+"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,0,fear,Scared,4.83,3.83,3.5,3.67
+It is clear that somebody will get what they want. They are most likely to feel?,gemma,0,happiness,Joy,4.67,4.5,4.62,4.67
+It is clear that somebody will get what they want. They are most likely to feel?,gpt4,1,happiness,Joy,4.33,4.33,4.0,4.83
+It is clear that somebody will get what they want. They are most likely to feel?,llama,1,happiness,Joy,4.83,3.33,3.0,3.67
+It is clear that somebody will get what they want. They are most likely to feel?,mixtral,1,happiness,Joy,4.83,3.83,3.5,3.67
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",gemma,1,happiness,Hope,4.67,4.5,4.62,4.67
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",gpt4,1,happiness,Hope,4.33,4.33,4.0,4.83
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",llama,1,happiness,Hope,4.83,3.33,3.0,3.67
+"By chance, a situation arises where there is the possibility that a person will get what they want. The person is most likely to feel?",mixtral,1,happiness,Hope,4.83,3.83,3.5,3.67
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",gemma,1,happiness,Relief,4.67,4.5,4.62,4.67
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",gpt4,1,happiness,Relief,4.33,4.33,4.0,4.83
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",llama,1,happiness,Relief,4.83,3.33,3.0,3.67
+"A supervisor who is unpleasant to work for leaves Alfonso's work. 
+Alfonso is most likely to feel?",mixtral,1,happiness,Relief,4.83,3.83,3.5,3.67
+The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,gemma,0,sadness,Sad,4.67,4.5,4.62,4.67
+The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,gpt4,1,sadness,Sad,4.33,4.33,4.0,4.83
+The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,llama,0,sadness,Sad,4.83,3.33,3.0,3.67
+The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,0,sadness,Sad,4.83,3.83,3.5,3.67
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,gemma,1,fear,Distressed,4.67,4.5,4.62,4.67
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,gpt4,1,fear,Distressed,4.33,4.33,4.0,4.83
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,llama,1,fear,Distressed,4.83,3.33,3.0,3.67
+Leila has been unable to sleep well lately and there are no changes in her life that might indicate why. Leila is most likely to feel?,mixtral,1,fear,Distressed,4.83,3.83,3.5,3.67
+A person feels they have control over a situation. The situation turns out badly for no particular reason. The person involved is most likely to feel?,gemma,0,fear,Frustrated,4.67,4.5,4.62,4.67
+A person feels they have control over a situation. The situation turns out badly for no particular reason. The person involved is most likely to feel?,gpt4,1,fear,Frustrated,4.33,4.33,4.0,4.83
+A person feels they have control over a situation. The situation turns out badly for no particular reason. The person involved is most likely to feel?,llama,1,fear,Frustrated,4.83,3.33,3.0,3.67
+A person feels they have control over a situation. The situation turns out badly for no particular reason. The person involved is most likely to feel?,mixtral,1,fear,Frustrated,4.83,3.83,3.5,3.67
+"Someone believes another person has deliberately caused something good to stop happening to them. However, they feel they can do something about it. They are most likely to feel?",gemma,1,anger,Angry,4.67,4.5,4.62,4.67
+"Someone believes another person has deliberately caused something good to stop happening to them. However, they feel they can do something about it. They are most likely to feel?",gpt4,1,anger,Angry,4.33,4.33,4.0,4.83
+"Someone believes another person has deliberately caused something good to stop happening to them. However, they feel they can do something about it. They are most likely to feel?",llama,0,anger,Angry,4.83,3.33,3.0,3.67
+"Someone believes another person has deliberately caused something good to stop happening to them. However, they feel they can do something about it. They are most likely to feel?",mixtral,1,anger,Angry,4.83,3.83,3.5,3.67
+" The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,0,anger,Contempt,4.67,4.5,4.62,4.67
+" The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gpt4,1,anger,Contempt,4.33,4.33,4.0,4.83
+" The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,0,anger,Contempt,4.83,3.33,3.0,3.67
+" The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",mixtral,0,anger,Contempt,4.83,3.83,3.5,3.67
+"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,0,anger,Contempt,4.67,4.5,4.62,4.67
+"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,0,anger,Contempt,4.33,4.33,4.0,4.83
+"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",llama,1,anger,Contempt,4.83,3.33,3.0,3.67
+"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,0,anger,Contempt,4.83,3.83,3.5,3.67
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?
+",gemma,1,happiness,Gratitude,4.67,4.5,4.62,4.67
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?
+",gpt4,1,happiness,Gratitude,4.33,4.33,4.0,4.83
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?
+",llama,1,happiness,Gratitude,4.83,3.33,3.0,3.67
+"Pete gets home late, after his favourite TV show has ended. Pete's partner has taped the show for him. Pete is most likely to feel?
+",mixtral,1,happiness,Gratitude,4.83,3.83,3.5,3.67
+Matthew has been at his current job for six months. Something happened that caused him to feel regret. What is most likely to have happened?,gemma,0,sadness,Regret,4.67,4.5,4.62,4.67
+Matthew has been at his current job for six months. Something happened that caused him to feel regret. What is most likely to have happened?,gpt4,0,sadness,Regret,4.33,4.33,4.0,4.83
+Matthew has been at his current job for six months. Something happened that caused him to feel regret. What is most likely to have happened?,llama,0,sadness,Regret,4.83,3.33,3.0,3.67
+Matthew has been at his current job for six months. Something happened that caused him to feel regret. What is most likely to have happened?,mixtral,1,sadness,Regret,4.83,3.83,3.5,3.67
+Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,gemma,0,happiness,Pride,4.67,4.5,4.62,4.67
+Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,gpt4,0,happiness,Pride,4.33,4.33,4.0,4.83
+Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,llama,1,happiness,Pride,4.83,3.33,3.0,3.67
+Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,0,happiness,Pride,4.83,3.83,3.5,3.67
