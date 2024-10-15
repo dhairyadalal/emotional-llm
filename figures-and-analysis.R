@@ -66,6 +66,7 @@ ggplot(regression_results %>% filter(term != "(Intercept)"), aes(x = term, y = e
         legend.position = "none", 
         legend.title = element_blank(),
         plot.title = element_text(hjust = 0.5))
+
 ############################### [ Trait Chart ] ##################################
 # Data for error bar chart
 data <- data.frame(

@@ -1,4 +1,4 @@
-instructions,TQN,Question
+instructions,TQN,Question,category
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -8,7 +8,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",1,Expressing my emotions with words is not a problem for me.
+7. Completely Agree",1,Expressing my emotions with words is not a problem for me.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -18,7 +18,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",2,I often find it difficult to see things from another person’s viewpoint.
+7. Completely Agree",2,I often find it difficult to see things from another person’s viewpoint.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -28,7 +28,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",3,"On the whole, I’m a highly motivated person."
+7. Completely Agree",3,"On the whole, I’m a highly motivated person.",
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -38,7 +38,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",4,I usually find it difficult to regulate my emotions.
+7. Completely Agree",4,I usually find it difficult to regulate my emotions.,self control
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -48,7 +48,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",5,I generally don’t find life enjoyable.
+7. Completely Agree",5,I generally don’t find life enjoyable.,wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -58,7 +58,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",6,I can deal effectively with people.
+7. Completely Agree",6,I can deal effectively with people.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -68,7 +68,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",7,I tend to change my mind frequently.
+7. Completely Agree",7,I tend to change my mind frequently.,self control
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -78,7 +78,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",8,"Many times, I can’t figure out what emotion I'm feeling."
+7. Completely Agree",8,"Many times, I can’t figure out what emotion I'm feeling.",emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -88,7 +88,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",9,I feel that I have a number of good qualities.
+7. Completely Agree",9,I feel that I have a number of good qualities.,wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -98,7 +98,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",10,I often find it difficult to stand up for my rights.
+7. Completely Agree",10,I often find it difficult to stand up for my rights.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -108,7 +108,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",11,I’m usually able to influence the way other people feel.
+7. Completely Agree",11,I’m usually able to influence the way other people feel.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -118,7 +118,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",12,"On the whole, I have a gloomy perspective on most things."
+7. Completely Agree",12,"On the whole, I have a gloomy perspective on most things.",wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -128,7 +128,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",13,Those close to me often complain that I don’t treat them right.
+7. Completely Agree",13,Those close to me often complain that I don’t treat them right.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -138,7 +138,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",14,I often find it difficult to adjust my life according to the circumstances.
+7. Completely Agree",14,I often find it difficult to adjust my life according to the circumstances.,
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -148,7 +148,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",15,"On the whole, I’m able to deal with stress."
+7. Completely Agree",15,"On the whole, I’m able to deal with stress.",self control
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -158,7 +158,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",16,I often find it difficult to show my affection to those close to me.
+7. Completely Agree",16,I often find it difficult to show my affection to those close to me.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -168,7 +168,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",17,I’m normally able to “get into someone’s shoes” and experience their emotions.
+7. Completely Agree",17,I’m normally able to “get into someone’s shoes” and experience their emotions.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -178,7 +178,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",18,I normally find it difficult to keep myself motivated.
+7. Completely Agree",18,I normally find it difficult to keep myself motivated.,
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -188,7 +188,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",19,I’m usually able to find ways to control my emotions when I want to.
+7. Completely Agree",19,I’m usually able to find ways to control my emotions when I want to.,self control
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -198,7 +198,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",20,"On the whole, I’m pleased with my life."
+7. Completely Agree",20,"On the whole, I’m pleased with my life.",wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -208,7 +208,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",21,I would describe myself as a good negotiator.
+7. Completely Agree",21,I would describe myself as a good negotiator.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -218,7 +218,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",22,I tend to get involved in things I later wish I could get out of.
+7. Completely Agree",22,I tend to get involved in things I later wish I could get out of.,self control
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -228,7 +228,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",23,I often pause and think about my feelings.
+7. Completely Agree",23,I often pause and think about my feelings.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -238,7 +238,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",24,I believe I’m full of personal strengths.
+7. Completely Agree",24,I believe I’m full of personal strengths.,wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -248,7 +248,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",25,I tend to “back down” even if I know I’m right.
+7. Completely Agree",25,I tend to “back down” even if I know I’m right.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -258,7 +258,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",26,I don’t seem to have any power at all over other people’s feelings.
+7. Completely Agree",26,I don’t seem to have any power at all over other people’s feelings.,sociability
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -268,7 +268,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",27,I generally believe that things will work out fine in my life.
+7. Completely Agree",27,I generally believe that things will work out fine in my life.,wellbeing
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -278,7 +278,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",28,I find it difficult to bond well even with those close to me.
+7. Completely Agree",28,I find it difficult to bond well even with those close to me.,emotionality
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -288,7 +288,7 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",29,"Generally, I’m able to adapt to new environments."
+7. Completely Agree",29,"Generally, I’m able to adapt to new environments.",
 "Please answer each statement below by providing a score of 1 to 7 that best reflects your degree of agreement or disagreement with the provided statement. 
 First provide the score and then a brief explanation of why you selected that score. Do not think too long about the exact meaning of the statements. 
 Work quickly and try to answer as accurately as possible. There are no right or wrong answers. The seven possible scores are:
@@ -298,4 +298,4 @@ Work quickly and try to answer as accurately as possible. There are no right or 
 4. Neither Agree nor Disagree 
 5. Weakly Agree 
 6. Strongly Agree 
-7. Completely Agree",30,Others admire me for being relaxed.
+7. Completely Agree",30,Others admire me for being relaxed.,self control
