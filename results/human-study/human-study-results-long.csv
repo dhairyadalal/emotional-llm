@@ -1,0 +1,276 @@
+q-id,situation,model,ekman,complex,pred_score,exp_score,evaluator
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,1,1,evaluator-1
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,3,4,evaluator-2
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,1,1,evaluator-3
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,3,2,evaluator-4
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,2,2,evaluator-5
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,1,1,evaluator-6
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,1,1,evaluator-7
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,2,2,evaluator-8
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,3,2,evaluator-9
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,2,1,evaluator-10
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,gpt4,anger,dislike,2,4,evaluator-11
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,3,3,evaluator-1
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,3,2,evaluator-2
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,2,1,evaluator-3
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,1,1,evaluator-4
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,2,2,evaluator-5
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,1,1,evaluator-6
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,3,3,evaluator-7
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,2,2,evaluator-8
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,2,1,evaluator-9
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,2,2,evaluator-10
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",gemma,anger,contempt,3,4,evaluator-11
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-1
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-2
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-3
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,2,2,evaluator-4
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,2,evaluator-5
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-6
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-7
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-8
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,2,1,evaluator-9
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,1,1,evaluator-10
+41,Penny's hockey team trained hard and won the championship. Penny is most likely to feel?,mixtral,happiness,pride,4,4,evaluator-11
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,1,1,evaluator-1
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,3,3,evaluator-2
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,3,1,evaluator-3
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,2,2,evaluator-4
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,1,1,evaluator-5
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,1,1,evaluator-6
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,1,1,evaluator-7
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,2,3,evaluator-8
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,2,1,evaluator-9
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,2,1,evaluator-10
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",llama,fear,scared,4,4,evaluator-11
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,2,2,evaluator-1
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,1,2,evaluator-2
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,2,3,evaluator-3
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,2,2,evaluator-4
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,2,2,evaluator-5
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,1,1,evaluator-6
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,1,1,evaluator-7
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,1,1,evaluator-8
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,1,1,evaluator-9
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,3,3,evaluator-10
+12,"Rashid needs to meet a quota before his performance review. There is only a small change that he will be able to do so and there isn't much he can do to improve the outcome. 
+Rashid is most likely to feel?",llama,fear,scared,3,3,evaluator-11
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,2,2,evaluator-1
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,1,3,evaluator-2
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,1,4,evaluator-3
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,3,3,evaluator-4
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,3,2,evaluator-5
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,1,1,evaluator-6
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,1,1,evaluator-7
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,1,2,evaluator-8
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,3,4,evaluator-9
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,3,3,evaluator-10
+27,"Although she has been careful to avoid all risk factors, Tina has contracted cancer. There is only a small chance that the cancer will be benign and nothing Tina does now can make a difference. Tina is most likely to feel?",mixtral,fear,scared,3,2,evaluator-11
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,2,evaluator-1
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,5,2,evaluator-2
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,3,evaluator-3
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,2,2,evaluator-4
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,1,evaluator-5
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,1,evaluator-6
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,3,evaluator-7
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,2,2,evaluator-8
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,2,2,evaluator-9
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,1,1,evaluator-10
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",mixtral,anger,contempt,4,3,evaluator-11
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-1
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,5,5,evaluator-2
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-3
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-4
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-5
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-6
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-7
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,2,2,evaluator-8
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-9
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-10
+11,Charles is meeting a friend to see a movie. The friend is very late and they are not in time to make it to the movie. Charles is most likely to feel?,gpt4,anger,distressed,1,1,evaluator-11
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,4,3,evaluator-1
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,3,5,evaluator-2
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-3
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,2,1,evaluator-4
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,3,3,evaluator-5
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,3,1,evaluator-6
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,3,3,evaluator-7
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,2,2,evaluator-8
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,4,3,evaluator-9
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,2,2,evaluator-10
+15,Jim enjoys spending Saturdays playing with his children in the park. This year they have sporting activities on Saturdays and cannot go to the park with him any more. Jim is most likely to feel?,mixtral,sadness,sad,4,4,evaluator-11
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,3,2,evaluator-1
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,3,1,evaluator-2
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,1,1,evaluator-3
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,1,1,evaluator-4
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,2,2,evaluator-5
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,3,2,evaluator-6
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,3,2,evaluator-7
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,2,2,evaluator-8
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,2,2,evaluator-9
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,1,1,evaluator-10
+37," The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",llama,anger,contempt,3,4,evaluator-11
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,1,1,evaluator-1
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,2,2,evaluator-2
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,1,1,evaluator-3
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,3,3,evaluator-4
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,2,2,evaluator-5
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,2,2,evaluator-6
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,1,1,evaluator-7
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,1,1,evaluator-8
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,1,1,evaluator-9
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,2,1,evaluator-10
+13,Someone believes that another person harmed them on purpose. There is not a lot that can be done to make things better. The person involved is most likely to feel?,mixtral,anger,dislike,2,4,evaluator-11
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-1
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-2
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-3
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,2,2,evaluator-4
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-5
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,2,2,evaluator-6
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-7
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-8
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-9
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,1,1,evaluator-10
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gpt4,anger,contempt,4,3,evaluator-11
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-1
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,3,4,evaluator-2
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-3
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-4
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-5
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-6
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-7
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-8
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,2,2,evaluator-9
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,1,1,evaluator-10
+33,The nature of Sara's job changes due to unpredictable factors and she no longer gets to do the portions of her work that she most enjoyed. Sara is most likely to feel?,mixtral,sadness,sad,3,4,evaluator-11
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-1
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,2,4,evaluator-2
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,3,3,evaluator-3
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-4
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-5
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-6
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-7
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,2,2,evaluator-8
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,2,2,evaluator-9
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-10
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,mixtral,anger,angry,1,1,evaluator-11
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,1,1,evaluator-1
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,3,3,evaluator-2
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,4,3,evaluator-3
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,2,2,evaluator-4
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,1,1,evaluator-5
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,2,2,evaluator-6
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,1,1,evaluator-7
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,1,1,evaluator-8
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,3,3,evaluator-9
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,2,2,evaluator-10
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",mixtral,sadness,sad,4,4,evaluator-11
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-1
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,2,2,evaluator-2
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,3,3,evaluator-3
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-4
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-5
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-6
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-7
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-8
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,2,2,evaluator-9
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,1,1,evaluator-10
+6,"Something unpleasant is happening. Neither the person involved, nor anyone else can make it stop. The person involved is most likely to feel?",mixtral,fear,distressed,4,4,evaluator-11
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,1,1,evaluator-1
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,3,2,evaluator-2
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,2,3,evaluator-3
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,2,1,evaluator-4
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,1,1,evaluator-5
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,2,2,evaluator-6
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,1,1,evaluator-7
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,1,1,evaluator-8
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,2,2,evaluator-9
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,2,2,evaluator-10
+0,"A pleasant experience ceases unexpectedly and there is not much that can be done about it. 
+The person involved is most likely to feel?",llama,sadness,sad,4,3,evaluator-11
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-1
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,2,1,evaluator-2
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,3,2,evaluator-3
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-4
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-5
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-6
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-7
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,2,2,evaluator-8
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,2,2,evaluator-9
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,1,1,evaluator-10
+17,Sheila's workmate intentionally does not give Sheila some important information about applying for a raise. Sheila is most likely to feel?,llama,anger,angry,4,4,evaluator-11
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,2,evaluator-1
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,1,evaluator-2
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,1,evaluator-3
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,2,2,evaluator-4
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,2,evaluator-5
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,1,evaluator-6
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,2,evaluator-7
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,1,1,evaluator-8
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,2,2,evaluator-9
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,2,1,evaluator-10
+38,"Someone believes that another person has caused harm to them, due to that person's bad character. They think they can probably handle the situation though. The harmed person is most likely to feel?",gemma,anger,contempt,4,3,evaluator-11
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-1
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,3,1,evaluator-2
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,2,2,evaluator-3
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-4
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-5
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-6
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-7
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,2,2,evaluator-8
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-9
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,1,1,evaluator-10
+29,"An upcoming event might have bad consequences. Nothing much can be done to alter this. 
+The person involved would be most likely to feel?",mixtral,fear,scared,4,3,evaluator-11
